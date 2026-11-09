@@ -16,3 +16,4 @@ A romantic, interactive birthday celebration website created with love for Ammul
 
 ## 🚀 Running Locally
 Simply double-click `start.bat` or open `index.html` in any modern web browser.
+
